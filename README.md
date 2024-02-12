@@ -71,7 +71,6 @@ Depois de baixar o arquivo, extraia da pasta zip e adicione o caminho do execut�
 **Executar teste regressivo**
 > npm run web
 
-
 ## EXTRAS
 [SITE UTILIZADO](http://www.automationpractice.pl/index.php)
 [DOCUMENTAÇÃO BROWSER](https://rpaframework.org/libdoc/RPA_Browser_Selenium.html)
