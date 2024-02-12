@@ -1,0 +1,12 @@
+{
+  "name": "robotframework-browserlibrary",
+  "version": "1.0.0",
+  "description": "Projeto criado para rodar testes automatizados de aceitação (e2e) no front-end, utilizando as tecnologias do Robot Framework com a lib Browser. Os testes devem ser capazes de serem rodados localmente e na pipeline",
+  "main": "index.js",
+  "scripts": {
+    "web": "robot -d logs ./src/Browser/Clients/Index.robot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
